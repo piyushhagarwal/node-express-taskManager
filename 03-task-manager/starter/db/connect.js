@@ -1,5 +1,5 @@
-// Import the mongoose module
 const mongoose = require("mongoose");
+
 //dotenv is package for env
 require("dotenv").config();
 
